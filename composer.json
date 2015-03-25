@@ -1,0 +1,30 @@
+{
+    "name": "raphhh/php-app-bootstrap",
+    "description": "A bootstrap for a PHP app, including basic common files and settings",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raphaël Lefebvre",
+            "email": "raphael@raphaellefebvre.be"
+        }
+    ],
+    "keywords": [
+        "bootstrap",
+        "samurai"
+    ],
+    "autoload": {
+        "psr-4": {
+            "": [
+                "src/",
+                "tests/"
+            ]
+        }
+    },
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "@stable"
+    }
+}
