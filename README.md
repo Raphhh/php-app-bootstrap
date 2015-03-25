@@ -1,14 +1,13 @@
-# PHP Lib Bootstrap
+# PHP App Bootstrap
 
-[![Latest Stable Version](https://poser.pugx.org/raphhh/php-lib-bootstrap/v/stable.svg)](https://packagist.org/packages/raphhh/php-lib-bootstrap)
-[![Build Status](https://travis-ci.org/Raphhh/php-lib-bootstrap.png)](https://travis-ci.org/Raphhh/php-lib-bootstrap)
-[![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/Raphhh/php-lib-bootstrap/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Raphhh/php-lib-bootstrap/)
-[![Code Coverage](https://scrutinizer-ci.com/g/Raphhh/php-lib-bootstrap/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Raphhh/php-lib-bootstrap/)
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/1eaf3345-68ec-44ff-8fed-bcbd4721bb13/mini.png)](https://insight.sensiolabs.com/projects/1eaf3345-68ec-44ff-8fed-bcbd4721bb13)
+[![Latest Stable Version](https://poser.pugx.org/raphhh/php-app-bootstrap/v/stable.svg)](https://packagist.org/packages/raphhh/php-app-bootstrap)
+[![Build Status](https://travis-ci.org/Raphhh/php-app-bootstrap.png)](https://travis-ci.org/Raphhh/php-app-bootstrap)
+[![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/Raphhh/php-app-bootstrap/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Raphhh/php-app-bootstrap/)
+[![Code Coverage](https://scrutinizer-ci.com/g/Raphhh/php-app-bootstrap/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Raphhh/php-app-bootstrap/)
 [![Dependency Status](https://www.versioneye.com/user/projects/54062eb9c4c187ff6100006f/badge.svg?style=flat)](https://www.versioneye.com/user/projects/54062eb9c4c187ff6100006f)
-[![Total Downloads](https://poser.pugx.org/raphhh/php-lib-bootstrap/downloads.svg)](https://packagist.org/packages/raphhh/php-lib-bootstrap)
-[![Reference Status](https://www.versioneye.com/php/raphhh:php-lib-bootstrap/reference_badge.svg?style=flat)](https://www.versioneye.com/php/raphhh:php-lib-bootstrap/references)
-[![License](https://poser.pugx.org/raphhh/php-lib-bootstrap/license.svg)](https://packagist.org/packages/raphhh/php-lib-bootstrap)
+[![Total Downloads](https://poser.pugx.org/raphhh/php-app-bootstrap/downloads.svg)](https://packagist.org/packages/raphhh/php-app-bootstrap)
+[![Reference Status](https://www.versioneye.com/php/raphhh:php-app-bootstrap/reference_badge.svg?style=flat)](https://www.versioneye.com/php/raphhh:php-app-bootstrap/references)
+[![License](https://poser.pugx.org/raphhh/php-app-bootstrap/license.svg)](https://packagist.org/packages/raphhh/php-app-bootstrap)
 
 A bootstrap for a lib in PHP. Don't set, just code!  
 
@@ -19,10 +18,10 @@ This bootstrap will install all the basic files and settings to start a PHP libr
 
 ### With Samurai (recommended)
 
-Just execute [Samurai](https://github.com/Raphhh/samurai) with 'lib' boostrap.
+Just execute [Samurai](https://github.com/Raphhh/samurai) with 'app' bootstrap.
 
 ```
-$ samurai new lib
+$ samurai new app
 ```
 
 ### With Composer
@@ -30,7 +29,7 @@ $ samurai new lib
 First, use [Composer](https://getcomposer.org/) to create your project. (Note that composer will also create all the repositories if they do not exist.)
 
 ```
-$ composer create-project raphhh/php-lib-bootstrap path/to/my/project
+$ composer create-project raphhh/php-app-bootstrap path/to/my/project
 ```
 
 Go into your project.
