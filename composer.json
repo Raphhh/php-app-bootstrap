@@ -1,6 +1,6 @@
 {
     "name": "raphhh/php-app-bootstrap",
-    "description": "A bootstrap for a PHP app, including basic common files and settings",
+    "description": "A bootstrap for a web application, including basic common files and settings",
     "type": "project",
     "license": "MIT",
     "authors": [
