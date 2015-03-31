@@ -4,7 +4,6 @@
 [![Build Status](https://travis-ci.org/Raphhh/php-app-bootstrap.png)](https://travis-ci.org/Raphhh/php-app-bootstrap)
 [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/Raphhh/php-app-bootstrap/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Raphhh/php-app-bootstrap/)
 [![Code Coverage](https://scrutinizer-ci.com/g/Raphhh/php-app-bootstrap/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Raphhh/php-app-bootstrap/)
-[![Dependency Status](https://www.versioneye.com/user/projects/54062eb9c4c187ff6100006f/badge.svg?style=flat)](https://www.versioneye.com/user/projects/54062eb9c4c187ff6100006f)
 [![Total Downloads](https://poser.pugx.org/raphhh/php-app-bootstrap/downloads.svg)](https://packagist.org/packages/raphhh/php-app-bootstrap)
 [![Reference Status](https://www.versioneye.com/php/raphhh:php-app-bootstrap/reference_badge.svg?style=flat)](https://www.versioneye.com/php/raphhh:php-app-bootstrap/references)
 [![License](https://poser.pugx.org/raphhh/php-app-bootstrap/license.svg)](https://packagist.org/packages/raphhh/php-app-bootstrap)
