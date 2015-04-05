@@ -21,26 +21,26 @@ This assumes you'll use [Git](http://git-scm.com/) for vcs,
 
 ## Files architecture
 
-├── public
-|   ├── .htaccess
-|   ├── index.php
-|   └── robots.txt
-├── src
-|   └── Dummy.php
-├── tests
-|   └── DummyTest.php
-├── vendor
-├── .editorconfig
-├── .gitattributes
-├── .gitignore
-├── .scrutinizer.yml
-├── .travis.yml
-├── composer.json
-├── composer.lock
-├── LICENSE
-├── phpunit.xml.dist
-├── README.md
-└── run
+    ├── public
+    |   ├── .htaccess
+    |   ├── index.php
+    |   └── robots.txt
+    ├── src
+    |   └── Dummy.php
+    ├── tests
+    |   └── DummyTest.php
+    ├── vendor
+    ├── .editorconfig
+    ├── .gitattributes
+    ├── .gitignore
+    ├── .scrutinizer.yml
+    ├── .travis.yml
+    ├── composer.json
+    ├── composer.lock
+    ├── LICENSE
+    ├── phpunit.xml.dist
+    ├── README.md
+    └── run
 
 - "public" is the web entry point.
 - "src" contains all your PHP code.
