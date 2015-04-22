@@ -1,7 +1,7 @@
 RewriteEngine on
 
 Rewritecond %{HTTP_HOST} ^www.(.*)$
-Rewriterule ^(.*) http://%1$1 [QSA,L,R=301]
+Rewriterule ^(.*) http://%1/$1 [QSA,L,R=301]
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule .* index.php [L]
